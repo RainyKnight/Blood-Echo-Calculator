@@ -21,7 +21,7 @@ namespace BloodEchoCalculation
 				Console.Write("Target Level: ");
 				bec.SetTLevel();
 
-				Console.WriteLine("To go from level {0} to {1}, it'll cost {2} blood echoes.", bec.CLevel, bec.TLevel, bec.Calculate());
+				Console.WriteLine("\nBlood echoes needed to go from level {0} to level {1} = {2}\n", bec.CLevel, bec.TLevel, bec.Calculate());
 				bec.beReqResetter();
 				Console.WriteLine("=====================================");
 			}

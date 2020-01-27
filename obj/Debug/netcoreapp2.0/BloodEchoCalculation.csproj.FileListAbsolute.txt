@@ -1,0 +1,10 @@
+E:\Github Stuff\Blood-Echo-Calculator\bin\Debug\netcoreapp2.0\BloodEchoCalculation.deps.json
+E:\Github Stuff\Blood-Echo-Calculator\bin\Debug\netcoreapp2.0\BloodEchoCalculation.runtimeconfig.json
+E:\Github Stuff\Blood-Echo-Calculator\bin\Debug\netcoreapp2.0\BloodEchoCalculation.runtimeconfig.dev.json
+E:\Github Stuff\Blood-Echo-Calculator\bin\Debug\netcoreapp2.0\BloodEchoCalculation.dll
+E:\Github Stuff\Blood-Echo-Calculator\bin\Debug\netcoreapp2.0\BloodEchoCalculation.pdb
+E:\Github Stuff\Blood-Echo-Calculator\obj\Debug\netcoreapp2.0\BloodEchoCalculation.csprojAssemblyReference.cache
+E:\Github Stuff\Blood-Echo-Calculator\obj\Debug\netcoreapp2.0\BloodEchoCalculation.AssemblyInfoInputs.cache
+E:\Github Stuff\Blood-Echo-Calculator\obj\Debug\netcoreapp2.0\BloodEchoCalculation.AssemblyInfo.cs
+E:\Github Stuff\Blood-Echo-Calculator\obj\Debug\netcoreapp2.0\BloodEchoCalculation.dll
+E:\Github Stuff\Blood-Echo-Calculator\obj\Debug\netcoreapp2.0\BloodEchoCalculation.pdb
